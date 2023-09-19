@@ -1,0 +1,3 @@
+map, xerite
+apple, alma
+car, masin
